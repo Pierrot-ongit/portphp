@@ -7,7 +7,7 @@ namespace Port;
  *
  * @author David de Boer <david@ddeboer.nl>
  */
-interface Exception
+interface Exception extends \Throwable
 {
 
 }
